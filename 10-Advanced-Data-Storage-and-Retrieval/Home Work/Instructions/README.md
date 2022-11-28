@@ -1,3 +1,6 @@
+Please make sure to go to all the links by adding them to end of the code
+
+
 # Unit 10 Homework: Surf’s Up
 
 ## Before You Begin
